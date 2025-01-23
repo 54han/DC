@@ -22,6 +22,7 @@
 Gdy znajdzie ciało, może ożywić martwego gracza kosztem swojego życia.
 Altruisty ciało znika, a wskrzeszany gracz ożywa.
 Jeżeli ktoś zgłosi ciało w trakcie wskrzeszania, altruista ginie i nikt nie zostaje wskrzeszony.
+[Wróc na góre](#tabela)
 
 -----------------------
 ## Engineer
