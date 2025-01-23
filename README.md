@@ -1,4 +1,4 @@
-![Roles](./Images/Roles.png)
+![Roles](./Roles.png)
 
 ## Role
 | **Impostorzy**               | **Crewmate**                      | **Neutrale**                     | **Modyfikatory**             |
